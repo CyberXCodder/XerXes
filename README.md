@@ -4,4 +4,4 @@ The DoS tool created by Th3j35t3r, considered one of the most powerful tools sin
 In order to use it, type in the terminal:
 
 $ gcc xerxes.c -o xerxes
-$ ./xerxes <options>
+$ ./xerxes www.fakesite.com 80
