@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">XerXes</h1>
+<h1 align="center">XerXes</h1>
 <p align="center">
   The Most Powerful DoS tool
 </p>
